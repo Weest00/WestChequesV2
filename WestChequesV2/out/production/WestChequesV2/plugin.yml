@@ -1,0 +1,7 @@
+name: WestChequesV2
+version: 1.0
+author: West
+softdepend: [NextCash]
+main: br.com.west.chequesv2.Main
+commands:
+  cheque:
